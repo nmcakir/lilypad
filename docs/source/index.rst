@@ -1,4 +1,4 @@
-Welcome to Lumache's documentation!
+Willkommen zum Lilypad Tutorial
 ===================================
 
 **Lumache** (/lu'make/) is a Python library for cooks and food lovers
