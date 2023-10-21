@@ -1,23 +1,20 @@
 Willkommen zum Lilypad Tutorial
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
-
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+In diesem Projekt werden wir ein T-Shirt erstellen das mit einem Lilypad ausgestattet ist.
 
 .. note::
 
-   This project is under active development.
+   Es gibt 5 Lilypads
+
+   
 
 Contents
 --------
 
 .. toctree::
 
-   usage
-   api
-   newfile
+   basics
+   installation
+   wiring
+   programming
