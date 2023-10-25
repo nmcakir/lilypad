@@ -7,6 +7,4 @@ Elektrotechnik Basics
 
 3. An Knotenpunkten teil sich der Strom entsprechend den Wiederständen auf
 
-3. Ein Verbraucher wird als ein Wiederstand dargestellt
-
-
+4. Ein Verbraucher wird als ein Wiederstand dargestellt
