@@ -1,6 +1,8 @@
 The Knight rider Code
 =====
 
+.. code-block:: c
+
 // Pin definitions
 const int ledPins[] = {5, 6, 9, 10, 11, A2, A3};
 const int numLeds = sizeof(ledPins) / sizeof(ledPins[0]);
