@@ -22,12 +22,3 @@ Das Lilypad wird genutzt um LED's zu beschalten.
 
     * T-Shirt
 
-Contents
---------
-
-.. toctree::
-
-   basics
-   installation
-   wiring
-   programming
